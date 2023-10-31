@@ -1,5 +1,4 @@
-# Importo las bibliotecas necesarias
-import sqlite3  # Importo la biblioteca SQLite para trabajar con la base de datos
+import sqlite3
 import tkinter as tk
 from tkinter import messagebox
 
